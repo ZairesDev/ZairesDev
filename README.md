@@ -4,12 +4,12 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Received a Full Stack Web Development Certificate from the University of Texas at San Antonio Coding Bootcamp. As of now, I utilize the MERN ( MongoDB, Express.js, React.js, Node.js) stack for my applications. I have recently began to use Java, with the Spring Framework, to further continue my programming education. I love to build things that help others, all the while learning new ways to overcome industry standard problems. I enjoy working with others and collaborating towards a common goal, while also learning what I can from my teammates.
+Received a Full Stack Web Development Certificate from the University of Texas at San Antonio Coding Bootcamp. As of now, I utilize the MERN ( MongoDB, Express.js, React.js, Node.js) stack for my applications. I enjoy working with others and collaborating towards a common goal, while also learning what I can from my teammates.
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
 * ✉️  You can contact me at [faissalshabani@gmail.com](mailto:faissalshabani@gmail.com)
-* 🧠  I'm learning advanced React concepts and AWS with a goal to also learn Typescript and Java to further advance my programming knowledge.
+* 🧠  I'm learning advanced React concepts, Typescript, and Java to further advance my programming knowledge.
 * 🤝  I'm open to collaborating on anything open source and meaningful.
 * ⚡  I'm a big Formula 1 fan!
 
