@@ -9,7 +9,7 @@ As a Full Stack Web Developer, I bring a strong background in utilizing the MERN
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
 * ✉️  You can contact me at [faissalshabani@gmail.com](mailto:faissalshabani@gmail.com)
-* 🧠  I'm advancing my React concepts, learning Typescript, and becoming proficient with Java to further advance my programming knowledge.
+* 🧠  I'm advancing my React concepts, with TypeScirpt, and becoming proficient with C# to further advance my programming knowledge.
 * 🤝  I'm open to collaborating on anything open source and meaningful.
 * ⚡  I'm a big Formula 1 fan!
 
