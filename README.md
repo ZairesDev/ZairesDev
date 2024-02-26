@@ -4,10 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-* Full Stack Web Developer with a Background utilizing MERN.
-* Currently work with React/TypeScript on the client with SharePoint as the backend professionally.
-* Actively learning C# so that I can be more familiar with .NET and ASP.NET.
-* I enjoy working with others and collaborating towards a common goal, while also learning what I can from my teammates.
+As a Full Stack Web Developer, I bring a strong background in utilizing the MERN stack. My current professional work involves React and TypeScript on the client side, with SharePoint serving as the backend. Additionally, I’m actively expanding my knowledge by learning C# to become well-versed in .NET and ASP.NET. I thrive on collaboration, working alongside others to achieve common goals, while also absorbing insights from my teammates. 🚀
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
