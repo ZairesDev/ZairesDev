@@ -4,7 +4,10 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Web Developer
 ------------------------
 
-Received a Full Stack Web Development Certificate from the University of Texas at San Antonio Coding Bootcamp. As of now, I utilize the MERN ( MongoDB, Express.js, React.js, Node.js) stack for my applications. I enjoy working with others and collaborating towards a common goal, while also learning what I can from my teammates.
+* Full Stack Web Developer with a Background utilizing MERN.
+* Currently work with React/TypeScript on the client with SharePoint as the backend professionally.
+* Actively learning C# so that I can be more familiar with .NET and ASP.NET.
+* I enjoy working with others and collaborating towards a common goal, while also learning what I can from my teammates.
 
 * 🌍  I'm based in Texas
 * 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
