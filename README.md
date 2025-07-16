@@ -6,7 +6,7 @@ Full Stack Software Engineer
 
 Full Stack Software Engineer with 3 years of experience developing and delivering front-end and back-end solutions. Proficient in React and TypeScript for client-side development, with SharePoint/C# as the backends. Skilled in collaborating with cross-functional teams to translate project requirements into innovative, scalable applications aligned with business objectives. Actively expanding my expertise with C# to master .NET and ASP.NET, while optimizing development pipelines for efficient deployment and system performance. 🚀
 
-* 🌍  I'm based in San Antonio
+* 🌍  I'm based in San Antonio, Texas
 * 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
 * ✉️  You can contact me at [faissalshabani@gmail.com](mailto:faissalshabani@gmail.com)
 * 🧠  I'm learning Golang, Angular, and furthering my skills in C# based APIs.
