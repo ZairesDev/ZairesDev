@@ -8,7 +8,7 @@ Full Stack Software Engineer with 3+ years of experience developing and deliveri
 
 * 🌍  I'm based in San Antonio, Texas
 * 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
-* ✉️  You can contact me at [faissalshabani@gmail.com](mailto:faissalshabani@proton.me)
+* ✉️  You can contact me at [faissalshabani@proton.me(mailto:faissalshabani@proton.me)
 * 🧠  I'm learning Golang, Angular, and furthering my skills in C# based APIs.
 * 🤝  I'm open to collaborating on meaningful open-source projects
 * ⚡  BIG Formula 1 fan.
