@@ -4,7 +4,7 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 Full Stack Software Engineer
 ----------------------------
 
-Full Stack Software Engineer with 3 years of experience developing and delivering front-end and back-end solutions. Proficient in React and TypeScript for client-side development, with SharePoint/C# as the backends. Skilled in collaborating with cross-functional teams to translate project requirements into innovative, scalable applications aligned with business objectives. Actively expanding my expertise with C# to master .NET and ASP.NET, while optimizing development pipelines for efficient deployment and system performance. 🚀
+Full Stack Software Engineer with 3+ years of experience developing and delivering front-end and back-end solutions. Proficient in React and TypeScript for client-side development, with SharePoint/C# as the backends. Skilled in collaborating with cross-functional teams to translate project requirements into innovative, scalable applications aligned with business objectives. Actively expanding my expertise with C# to master .NET and ASP.NET, while optimizing development pipelines for efficient deployment and system performance. 🚀
 
 * 🌍  I'm based in San Antonio, Texas
 * 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
