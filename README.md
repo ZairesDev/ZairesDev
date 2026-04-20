@@ -1,25 +1,103 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Faissal Shabani
-=======================================================================================================================================
+<div align="center">
 
-Full Stack Software Engineer
-----------------------------
+```
+┌──────────────────────────────────────────────────────┐
+│                                                      │
+│   ▸ faissal shabani                                  │
+│   ▸ full stack software engineer                     │
+│   ▸ san antonio, tx                                  │
+│                                                      │
+└──────────────────────────────────────────────────────┘
+```
 
-Full Stack Software Engineer with 3+ years of experience developing and delivering front-end and back-end solutions. Proficient in React and TypeScript for client-side development, with SharePoint/C# as the backends. Skilled in collaborating with cross-functional teams to translate project requirements into innovative, scalable applications aligned with business objectives. Actively expanding my expertise with C# to master .NET and ASP.NET, while optimizing development pipelines for efficient deployment and system performance. 🚀
+[![Portfolio](https://img.shields.io/badge/portfolio-faissal--shabani-1d4ed8?style=flat-square)](http://faissal-shabani-portfolio.netlify.app/)
+[![Email](https://img.shields.io/badge/email-faissalshabani%40proton.me-dc2626?style=flat-square)](mailto:faissalshabani@proton.me)
+[![GitHub](https://img.shields.io/badge/github-ZairesDev-f5f5f5?style=flat-square&logo=github&logoColor=black)](https://www.github.com/ZairesDev)
+[![LinkedIn](https://img.shields.io/badge/linkedin-faissalshabani-d97706?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/faissalshabani)
 
-* 🌍  I'm based in San Antonio, Texas
-* 🖥️  See my portfolio at [My Portfolio](http://faissal-shabani-portfolio.netlify.app/)
-* ✉️  You can contact me at [faissalshabani@proton.me](mailto:faissalshabani@proton.me)
-* 🧠  I'm learning Golang, Angular, and furthering my skills in C# based APIs.
-* 🤝  I'm open to collaborating on meaningful open-source projects
-* ⚡  BIG Formula 1 fan.
+</div>
 
-### Skills
+---
 
-<p align="left">
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" title="JavaScript"/></a><a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/typescript-colored.svg" width="36" height="36" alt="TypeScript" title="TypeScript"/></a><a href="https://docs.microsoft.com/en-us/dotnet/csharp/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/csharp-colored.svg" width="36" height="36" alt="C#" title="C#"/></a><a href="https://go.dev/doc/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/go-colored.svg" width="36" height="36" alt="Go" title="Go"/></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" title="Git"/></a><a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/visualstudiocode-colored.svg" width="36" height="36" alt="VS Code" title="VS Code"/></a><a href="https://developer.mozilla.org/en-US/docs/Glossary/HTML5" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/html5-colored.svg" width="36" height="36" alt="HTML5" title="HTML5"/></a><a href="https://www.w3.org/TR/CSS/#css" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/css3-colored.svg" width="36" height="36" alt="CSS3" title="CSS3"/></a><a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/react-colored.svg" width="36" height="36" alt="React" title="React"/></a><a href="https://nextjs.org/docs" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nextjs-colored.svg" width="36" height="36" alt="NextJs" title="NextJs"/></a><a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/jquery-colored.svg" width="36" height="36" alt="JQuery" title="JQuery"/></a><a href="https://getbootstrap.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/bootstrap-colored.svg" width="36" height="36" alt="Bootstrap" title="Bootstrap"/></a><a href="https://nodejs.org/en/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/nodejs-colored.svg" width="36" height="36" alt="NodeJS" title="NodeJS"/></a><a href="https://expressjs.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/express-colored.svg" width="36" height="36" alt="Express" title="Express"/></a><a href="https://graphql.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/graphql-colored.svg" width="36" height="36" alt="GraphQL" title="GraphQL"/></a><a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mongodb-colored.svg" width="36" height="36" alt="MongoDB" title="MongoDB"/></a><a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/mysql-colored.svg" width="36" height="36" alt="MySQL" title="MySQL"/></a><a href="https://www.heroku.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/heroku-colored.svg" width="36" height="36" alt="Heroku" title="Heroku"/></a><a href="https://dotnet.microsoft.com/en-us/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dot-net-colored.svg" width="36" height="36" alt=".NET" title=".NET"/></a><a src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/docker-colored.svg" width="36" height="36" alt="Docker" title="Docker"/></a>
-</p>
+### `▸ about`
 
-### Socials
+Full Stack Software Engineer with 3+ years of experience building front-end and back-end solutions. Proficient in React and TypeScript on the client side, with Go and Node.js powering the backend. Skilled in collaborating with cross-functional teams to translate requirements into scalable applications. Currently deepening my expertise in Go, distributed systems with Temporal, and infrastructure tooling.
 
-<p align="left"> <a href="https://www.github.com/ZairesDev" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" alt="Github" title="Github" /> </picture> </a> <a href="https://www.linkedin.com/in/faissalshabani" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" alt="LinkedIn" title="LinkedIn" /> </picture> </a></p>
+---
 
+### `▸ stack`
+
+```
+$ stack install --global
+```
+
+<br>
+
+```
+▸ resolving languages...
+```
+
+![JavaScript](https://img.shields.io/badge/-JavaScript-d97706?style=flat-square&logo=javascript&logoColor=white)
+![TypeScript](https://img.shields.io/badge/-TypeScript-1d4ed8?style=flat-square&logo=typescript&logoColor=white)
+![Go](https://img.shields.io/badge/-Go-dc2626?style=flat-square&logo=go&logoColor=white)
+
+```
+▸ resolving frontend...
+```
+
+![React](https://img.shields.io/badge/-React-1d4ed8?style=flat-square&logo=react&logoColor=white)
+![Next.js](https://img.shields.io/badge/-Next.js-f5f5f5?style=flat-square&logo=nextdotjs&logoColor=black)
+![HTML5](https://img.shields.io/badge/-HTML5-dc2626?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1d4ed8?style=flat-square&logo=css3&logoColor=white)
+![jQuery](https://img.shields.io/badge/-jQuery-d97706?style=flat-square&logo=jquery&logoColor=white)
+
+```
+▸ resolving backend...
+```
+
+![Node.js](https://img.shields.io/badge/-Node.js-dc2626?style=flat-square&logo=nodedotjs&logoColor=white)
+![Express](https://img.shields.io/badge/-Express-f5f5f5?style=flat-square&logo=express&logoColor=black)
+![GraphQL](https://img.shields.io/badge/-GraphQL-d97706?style=flat-square&logo=graphql&logoColor=white)
+
+```
+▸ resolving data & infrastructure...
+```
+
+![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-1d4ed8?style=flat-square&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-dc2626?style=flat-square&logo=mongodb&logoColor=white)
+![MySQL](https://img.shields.io/badge/-MySQL-d97706?style=flat-square&logo=mysql&logoColor=white)
+![Redis](https://img.shields.io/badge/-Redis-dc2626?style=flat-square&logo=redis&logoColor=white)
+![Temporal](https://img.shields.io/badge/-Temporal-f5f5f5?style=flat-square&logo=temporal&logoColor=black)
+
+```
+▸ resolving tools...
+```
+
+![Git](https://img.shields.io/badge/-Git-dc2626?style=flat-square&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-1d4ed8?style=flat-square&logo=docker&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS_Code-1d4ed8?style=flat-square&logo=visualstudiocode&logoColor=white)
+![Heroku](https://img.shields.io/badge/-Heroku-d97706?style=flat-square&logo=heroku&logoColor=white)
+
+```
+✓ stack installed successfully
+```
+
+---
+
+### `▸ currently`
+
+```
+▸ learning   :: go, angular
+▸ open to    :: meaningful open-source collaborations
+▸ fun fact   :: big formula 1 fan
+```
+
+---
+
+<div align="center">
+
+```
+└── EOF
+```
+
+</div>
